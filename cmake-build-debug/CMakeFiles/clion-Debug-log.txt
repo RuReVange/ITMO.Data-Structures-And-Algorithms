@@ -1,0 +1,19 @@
+/Users/ioannboltonov/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/ioannboltonov/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/ioannboltonov/CLionProjects/A&DS -B /Users/ioannboltonov/CLionProjects/A&DS/cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:42:
+  Syntax Warning in cmake code at column 45
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    Laboratory№8/TheDecoderOfTheMIT
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: A_DS
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
