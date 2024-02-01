@@ -23,3 +23,4 @@
 [Lab 13](https://github.com/RuReVange/ITMO.Data-Structures-And-Algorithms/tree/main/Laboratory№13)
 (Hash Tables)<br/>
 [Lab 14](https://github.com/RuReVange/ITMO.Data-Structures-And-Algorithms/tree/main/Laboratory№14)
+(Prefix Function, KMP)
