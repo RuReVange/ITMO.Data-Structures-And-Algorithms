@@ -21,5 +21,5 @@
 [Lab 12](https://github.com/RuReVange/ITMO.Data-Structures-And-Algorithms/tree/main/Laboratory№12)
 (DSU, MST, Painting, MaxFlow)<br/>
 [Lab 13](https://github.com/RuReVange/ITMO.Data-Structures-And-Algorithms/tree/main/Laboratory№13)
-<br/>
+(Hash Tables)<br/>
 [Lab 14](https://github.com/RuReVange/ITMO.Data-Structures-And-Algorithms/tree/main/Laboratory№14)
